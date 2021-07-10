@@ -4,5 +4,5 @@ for mission-critical applications in various areas and industries: media, financ
 - Eranea was created with the mission of developing further such large pieces of software for customers aiming at successfully achieve their digital transformation
 - 📫 Reach us via email: contact@eranea.com
 
-- Swiss RCS registration: https://www.zefix.ch/en/search/entity/list/firm/1013645?name=eranea&searchType=exact
+- Swiss RCS registration: [page on Zefix](https://www.zefix.ch/en/search/entity/list/firm/1013645?name=eranea&searchType=exact)
 
